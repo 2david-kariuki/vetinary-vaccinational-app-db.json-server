@@ -1,9 +1,70 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "vaccinations": [
+    {
+      "id": "f000",
+      "animalName": "dog",
+      "vaccine": "FIV(Feline Immunodeficiency Virus",
+      "date": "2025-03-13"
+    },
+    {
+      "id": "a757",
+      "animalName": "horse",
+      "vaccine": "guboro",
+      "date": "2025-03-20"
+    },
+    {
+      "id": "871d",
+      "animalName": "goat",
+      "vaccine": "nan0",
+      "date": "4444-12-31"
+    },
+    {
+      "id": "72c0",
+      "animalName": "cow",
+      "vaccine": "foot and mouth vaccine",
+      "date": "5555-12-31"
+    },
+    {
+      "id": "d2c4",
+      "animalName": "ffff",
+      "vaccine": "gggg",
+      "date": "1111-11-11"
+    },
+    {
+      "id": "5ea9",
+      "animalName": "eeeeeee",
+      "vaccine": "fgghh",
+      "date": "2025-03-07"
+    },
+    {
+      "id": "e72a",
+      "animalName": "ujfhijgjsjjsjgjjjg",
+      "vaccine": "fgtyyuuuu",
+      "date": "2025-03-11"
+    },
+    {
+      "id": "f141",
+      "animalName": "ngre",
+      "vaccine": "mmmmmmm",
+      "date": "2025-03-13"
+    },
+    {
+      "id": "dea2",
+      "animalName": "rrrrr",
+      "vaccine": "rrrr",
+      "date": "2025-03-19"
+    },
+    {
+      "id": "bcc7",
+      "animalName": "sfgdyhwssvd",
+      "vaccine": "sfsfdd",
+      "date": "2025-03-06"
+    },
+    {
+      "id": "885e",
+      "animalName": "ffffffffffff",
+      "vaccine": "sfsfdd",
+      "date": "2025-03-12"
+    }
+  ]
 }
